@@ -55,9 +55,11 @@ The median of linemen do approximately 18 pushups and skilled players do approxi
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(pushups~position,data=mydata)
+```
 
-
-
+the skilled players Q1,median,q3,max,and mean are doubled compared to the linemen. 
 
 ## Inferential Results
 
