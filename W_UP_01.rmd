@@ -71,7 +71,7 @@ t.test(pushups~position,data=mydata)
 ```
 
 
-The p value is exceptionally small and  the differences are bordering Impossible at being the same.
+The p value(9.421e-06) is exceptionally smaller than .05 and the differences are bordering impossible at being the same.
 
 # Discussion and Conclusion
 
